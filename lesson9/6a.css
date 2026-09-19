@@ -1,0 +1,42 @@
+p{
+    font-family: arial;
+
+}
+.div1{
+    width: 200px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+
+}
+.img1{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+.p1{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+.p2{
+    color: rgb(100,100,100);
+    margin-bottom: 15px;
+    margin-left: 10px;
+    padding-left: 20px;
+    vertical-align: middle;
+    text-align: middle;
+}
+.btn{
+    background-color: rgb(50,120,250);
+    color: white;
+    border: none;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
