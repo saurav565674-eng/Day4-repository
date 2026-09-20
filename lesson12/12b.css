@@ -1,0 +1,24 @@
+.flexbox {
+  display: flex;
+  flex-direction: row;
+}
+
+.lightblue {
+  background-color: lightblue;
+}
+
+.lightpink {
+  background-color: lightpink;
+}
+
+.i1 {
+  width: 50px;
+}
+
+.i2 {
+  flex: 1;
+}
+
+.i3 {
+  width: 75px;
+}
