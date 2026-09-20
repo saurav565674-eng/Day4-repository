@@ -1,0 +1,31 @@
+.image{
+    display: inline-block;
+    width: 200px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.title{
+    display: inline-block;
+    margin-top: 0;
+    vertical-align: top;
+}
+.title1{
+    font-size: 20px;
+    vertical-align: top;
+    width: 300px;
+    height: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+.title2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    opacity: 0.5;
+    vertical-align: top;
+
+
+}
+.div1{
+    padding-bottom: 5px;
+}
